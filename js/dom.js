@@ -69,7 +69,7 @@ hideGameDetails(){
             errorMessage.style.display = 'block';
             setTimeout(() => {
                 errorMessage.style.display = 'none';
-            }, 5000);
+            }, 1000);
         }
     }
     

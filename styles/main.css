@@ -6,7 +6,7 @@
 }
 .error-message {
     color: var(--color-text-primary);
-    font-size: 24px;
+    font-size: 18px;
     text-shadow:  1px 2px 1px var(--color-second);
     border-radius: 10px;
     text-align: center;
