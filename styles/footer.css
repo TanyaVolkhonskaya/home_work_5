@@ -1,0 +1,13 @@
+.main-footer {
+    flex-shrink: 0;
+    background-color:var(--color-footer-backround);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+}
+
+.footer-content a {
+    color: white;
+    text-decoration: underline;
+}
