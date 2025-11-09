@@ -3,8 +3,9 @@
     background-color:var(--color-footer-backround);
     color: white;
     text-align: center;
-    padding: 20px;
+    padding: 15px;
     width: 100%;
+    font-size: 8px;
 }
 
 .footer-content a {
