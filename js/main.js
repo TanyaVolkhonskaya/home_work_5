@@ -14,7 +14,7 @@ async Searcher(game){
             const gameData = await this.api.getAllData(game);
             
             if (!gameData) {
-                this.dom.showError('Игра не найдена');
+                this.dom.showError('Данная игра сейчас не в раздаче');
                 this.dom.hideGameDetails();
                 return;
             }

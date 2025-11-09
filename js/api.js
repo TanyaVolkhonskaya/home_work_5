@@ -1,6 +1,6 @@
 class GamingApi {
     constructor() {
-        this.proxyURL = 'https://api.allorigins.win/raw?url='; 
+        this.proxyURL = 'https://api.codetabs.com/v1/proxy?quest='; // прокси работает через раз. Я не знаю как это исправить(
         this.baseUrl = "https://www.gamerpower.com/api/giveaways";
     }
     
