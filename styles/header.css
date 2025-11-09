@@ -11,14 +11,14 @@
 }
 .main-header_title-name{
 
-    font-size: 400%;
+    font-size: 36px;
     color:var(--color-text-primary);
     
     
 }
 .main-header_extra-text{
 
-    font-size:225%;
+    font-size:24px;
     color:var(--color-text-primary);
     margin-right: auto;
 }
@@ -38,7 +38,7 @@
             border-radius: 15px;
 }
 .header_button{
-            font-size: 20px;
+            font-size: 18px;
             color: var(--color-text-primary);
             padding: 10px 15px;
             background-color: var(--color-backround);

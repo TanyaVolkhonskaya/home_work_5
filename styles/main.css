@@ -1,6 +1,5 @@
 .main-game{
     flex: 1; 
-    padding: 20px;
 }
 .game-header{
     margin:0.5% 0 0 0.5%;
@@ -32,29 +31,29 @@
 }
 .game-title {
     color: var( --color-text-main);
-    font-size: 48px;
+    font-size: 28px;
 }
 
 .game-worth {
     color: var(--color-text-main);
-    font-size: 36px;
+    font-size: 18px;
     margin: 1% 0 0 0;
 }
 .game-info-grid {
      color: var( --color-text-main);
-    font-size: 36px;
+    font-size: 18px;
     margin: 0;
 }
 
 .game-info-item {
      color: var(--color-text-main);
-    font-size: 36px;
+    font-size: 18px;
     margin: 0%;
 }
 
 .game-info-label {
      color: var( --color-text-main);
-    font-size: 36px;
+    font-size: 18px;
     margin: 1%;
 }
 
@@ -62,13 +61,13 @@
 .game-type,
 .game-date {
      color: var( --color-text-main);
-    font-size: 36px;
+    font-size: 18px;
     margin: 1% 0 0 1%;
 }
 
 .game-description {
     color: var( --color-text-main);
-    font-size: 36px;
+    font-size: 18px;
     margin: 1%;
 }
 
@@ -80,7 +79,7 @@
     padding: 15px 30px;
     text-decoration: none;
     border-radius: 25px;
-    font-size: 1.2em;
+    font-size: 15px;
     font-weight: bold;
     transition: all 0.3s ease;
     box-shadow: 0 4px 15px rgba(10, 11, 59, 0.3);

@@ -6,6 +6,11 @@ body{
     display: flex;
     flex-direction: column;
     height: 100vh; 
+    background-attachment: fixed;
+    overflow: hidden; 
+    font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  height: 100vh;
 }
 :root{
     --color-backround: rgb(57, 114, 139);
