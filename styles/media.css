@@ -94,10 +94,7 @@
 }
 
 @media (max-width: 480px) {
-    body {
-        height: auto;
-        min-height: 100vh;
-    }
+  
     
     .main-header {
         margin: 3% 0 0 3%;
